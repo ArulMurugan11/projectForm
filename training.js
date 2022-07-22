@@ -225,3 +225,4 @@ function validateForm(e) {
   //   alert(dataPreview);
   // }
 }
+//add some logics 
